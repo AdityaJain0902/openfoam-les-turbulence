@@ -47,17 +47,6 @@ The project aims to develop a strong understanding of turbulence physics, valida
 - Mesh Generation
 - Boundary Layer Analysis
 
-## Repository Contents
-
-```text
-Report/
-    Weekly_Progress_Report.pdf
-
-Images/
-    LidDrivenCavity/
-    CylinderFlow/
-    ValidationPlots/
-```
 
 ## Future Work
 
